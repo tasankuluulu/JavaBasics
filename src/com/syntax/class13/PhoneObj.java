@@ -11,9 +11,9 @@ public class PhoneObj {
 		phone1.make = "IPhone";
 		phone2.make = "Android";
 		phone3.make = "Nokia";
-		
+
 		phone3.model = "Nokia 3310";
-		
+
 		phone1.text();
 		phone2.text();
 		phone3.store();
